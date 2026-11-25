@@ -1,0 +1,39 @@
+{
+  "data": "2026-11-25",
+  "arquivos": 251,
+  "python_compilados_em_memoria": 169,
+  "manifesto_confere": true,
+  "configuracoes_locais_ausentes": true,
+  "historico_git_ausente": true,
+  "padroes_credenciais_encontrados": 0,
+  "constantes_credenciais_operacionais_encontradas": 0,
+  "alterados_apenas_na_copia": [
+    "tc420.py",
+    "tc420/conexao.py",
+    "tc420/web.py",
+    "interface/conexao.py",
+    "interface/janela.py",
+    "documentação/API.md",
+    "documentação/CONFIGURACAO.md",
+    "documentação/INTEGRACAO_VISUAL_001.md",
+    "documentação/METODOS_JANELA.md",
+    "documentação/MODULOS.md",
+    "documentação/PROTOCOLOS.md",
+    "documentação/README.md"
+  ],
+  "garantia_absoluta_ausencia_segredos": false,
+  "publicado": false,
+  "regressao": {
+    "testes": 2169,
+    "segundos": 52.064,
+    "aprovado": true,
+    "tc420_real": false
+  },
+  "bytes_fontes": 6091662,
+  "zip_arquivos": 251,
+  "zip_bytes": 2547558,
+  "zip_sha256": "9e0d62a67284125eef7dcf230376b17a48e78dddf91b257ab1346b03549b0461",
+  "zip_integro": true,
+  "links_locais_validos": true,
+  "fontes_operacionais_originais_preservadas": true
+}
